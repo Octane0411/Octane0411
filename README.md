@@ -10,5 +10,6 @@
 
 ![info](https://github-readme-stats.vercel.app/api?username=Octane0411&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Octane0411)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Octane0411&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
