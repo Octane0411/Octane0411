@@ -24,21 +24,6 @@ Currently, I am dedicated to building **Autonomous Agents**, exploring **LLM Orc
 
 ---
 
-### ⚡️ Current Focus
-
-#### 🔮 **Oh My OpenCode**
-> *Studying the "Batteries-Included" Agent Harness.*
-Analyzing the architecture of this orchestration layer. Exploring **Sisyphus** (multi-agent orchestrator), expert agent patterns, and **MCP/LSP** integrations to understand advanced agentic workflows.
-
-#### 📚 **Learn Claude Code**
-> *Reverse Engineering the World's Best AI Engineer.*
-An educational project and series dissecting how advanced AI agents work. From basic Bash loops to complex planning, sub-agent delegation, and skill-based architectures.
-
-#### 🚀 **Startup MVP**
-Building a scalable, AI-native product using **Next.js** and **Supabase**, focusing on rapid iteration and user-centric design.
-
----
-
 <div align="center">
   <p>
     Let's build something amazing together.
