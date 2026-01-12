@@ -2,7 +2,7 @@
   <h1>Hi, I'm Octane 🤍</h1>
   <h3>Full Stack & AI Application Engineer</h3>
   <p>
-    <em>"Bridging the gap between Human Intent and Machine Execution."</em>
+    <em>"Build Anything | Explore Everthing | Indie Company"</em>
   </p>
 </div>
 
