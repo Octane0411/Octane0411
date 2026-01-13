@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Octane 🤍</h1>
-  <h3>Full Stack & AI Application Engineer</h3>
+  <h3>Full Stack & Agent Engineer</h3>
   <p>
     <em>"Build Anything | Explore Everthing | Indie Company"</em>
   </p>
