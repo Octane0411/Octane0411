@@ -10,8 +10,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Frontend & Full Stack Engineer** passionate about **AI Engineering**.
-Currently, I am dedicated to building **Autonomous Agents**, exploring **LLM Orchestration**, and mastering **RAG Architectures**.
+I am a **Frontend & Full Stack Engineer** passionate about **LLM/Agent**.
 
 **Technical Proficiency**
 <p>
