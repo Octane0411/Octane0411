@@ -24,6 +24,6 @@ I am an **AI Powered Full Stack Engineer** specializing in **LLM/Agent Systems**
 
 <div align="center">
   <p>
-    Let's build something amazing together with AI 🚀
+    Let's build something amazing together
   </p>
 </div>
