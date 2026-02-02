@@ -10,7 +10,7 @@
 I am an **AI Powered Full Stack Engineer** specializing in **LLM/Agent Systems** and **Intelligent Automation**.
 
 - 🚀 Building **agent-driven** applications and **AI-powered tools** that augment human creativity
-- 🌱 Deep diving into **LLM Architecture**, **Agent Design Patterns**, and **Agentic AI** systems
+- 🌱 Deep diving into **LLM**, **Agent Design**, and **Agent Memory** systems
 
 **Technical Proficiency**
 <p>
