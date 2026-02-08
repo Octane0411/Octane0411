@@ -7,8 +7,6 @@
 
 ### 👨‍💻 About Me
 
-I am an **AI Powered Full Stack Engineer** specializing in **LLM/Agent Systems** and **Intelligent Automation**.
-
 - 🚀 Building **[open-agent-sdk](https://github.com/Octane0411/open-agent-sdk)** - an open-source alternative to Claude Agent SDK, providing lightweight, customizable, and provider-agnostic AI agent framework
   - 🔥 This is a **build in public** project - follow along as I share the journey, challenges, and progress transparently
   - 💡 Looking for collaborators! If you're passionate about AI agents and open-source, I'd love to have you join me
@@ -24,8 +22,6 @@ I am an **AI Powered Full Stack Engineer** specializing in **LLM/Agent Systems**
 ---
 
 ### 📫 Let's Connect
-
-I'm always excited to connect with fellow developers and builders!
 
 - 📧 Email: [wdznb1@gmail.com](mailto:wdznb1@gmail.com)
 - 🐦 X (Twitter): [@Octane0411](https://x.com/Octane0411)
