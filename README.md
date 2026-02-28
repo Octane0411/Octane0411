@@ -3,11 +3,7 @@
   <p>AI-native Builder</p>
 </div>
 
-> 🚀 **Focus:** High-frequency shipping & the **idea → product → distribution** loop.
->
-> 🤖 **Edge:** Orchestrating AI agents to 10x productivity and manage system complexity.
->
-> 💡 **Belief:** AI transforms production itself, not just efficiency.
+> 💡 **Insight:** AI transforms production itself, not just efficiency.
 
 ---
 
