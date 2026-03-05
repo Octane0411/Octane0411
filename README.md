@@ -35,17 +35,9 @@ Lightweight, customizable, cross-provider AI agent framework.
 
 An OpenSpec-focused agent plugin for OpenCode, providing better OpenSpec planning support.
 
-### [credit-trader-secondme](https://github.com/Aubrey-M-ops/credit-trader-secondme)
+### [clawpiggy](https://github.com/Aubrey-M-ops/credit-trader-secondme)
 
 An A2A token mutual aid app designed for OpenClaw and coding plan users. Born at the SecondMe Hackathon—making every coding plan session count.
-
-### openVault
-
-A meta system for managing all my docs, knowledge, and projects. Works with Obsidian and Claude Code. Open-sourcing soon.
-
-### My Agent Harness
-
-I currently work with OpenClaw, Claude Code, OpenCode, and more. Open-sourcing my agent swarm harness soon—this is how I 10x my productivity.
 
 ---
 
