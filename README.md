@@ -1,7 +1,5 @@
-<div align="center">
-  <h1>Hi, I'm Octane 🤍</h1>
-  <p>AI-native Builder</p>
-</div>
+## About me
+Builder. ex Meituan. AI-native OPC.
 
 > 💡 **Insight:** AI transforms production itself, not just efficiency.
 
@@ -24,12 +22,13 @@
 ---
 
 ## What I'm Building
+###[symphony-ts](https://github.com/OasAIStudio/symphony-ts)
+
+Typecript version of openai symphony, turns project work into isolated, autonomous implementation runs
 
 ### [open-agent-sdk](https://github.com/Octane0411/open-agent-sdk)
 
-> Open-source alternative to Claude Agent SDK
-
-Lightweight, customizable, cross-provider AI agent framework.
+Lightweight, customizable, cross-provider AI agent framework.Open-source alternative to Claude Agent SDK
 
 ### [opencode-plugin-openspec](https://github.com/Octane0411/opencode-plugin-openspec)
 
