@@ -22,7 +22,7 @@ Builder. ex Meituan. AI-native OPC.
 ---
 
 ## What I'm Building
-###[symphony-ts](https://github.com/OasAIStudio/symphony-ts)
+### [symphony-ts](https://github.com/OasAIStudio/symphony-ts)
 
 Typecript version of openai symphony, turns project work into isolated, autonomous implementation runs
 
