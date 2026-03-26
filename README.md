@@ -20,7 +20,6 @@ Building coding agents, multi-agent systems, AI products.
 
 - **[open-agent-sdk](https://github.com/Octane0411/open-agent-sdk)** - Lightweight, customizable, cross-provider AI agent framework. Open-source alternative to Claude Agent SDK.
 - **[symphony-ts](https://github.com/OasAIStudio/symphony-ts)** - TypeScript version of OpenAI Symphony. It turns project work into isolated, autonomous implementation runs.
-- **[CatWork](https://github.com/Octane0411/CatWork)** - Desktop AI workspace that brings an agent, a real browser, and terminal tools into one window for research and browser-heavy workflows.
 - **[opencode-plugin-openspec](https://github.com/Octane0411/opencode-plugin-openspec)** - An OpenSpec-focused agent plugin for OpenCode, providing better OpenSpec planning support.
 
 
