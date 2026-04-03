@@ -1,6 +1,6 @@
 # Octane
 
-AI-native Builder. OPC. ex Meituan.
+AI-native Builder. OPC. working at Meituan.
 
 Building coding agents, multi-agent systems, AI products.
 
