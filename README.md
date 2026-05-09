@@ -1,6 +1,6 @@
 # Octane
 
-AI-native Builder. OPC. working at Meituan.
+AI native Builder, agent engineer. ex-Meituan.
 
 Building coding agents, multi-agent systems, AI products.
 
@@ -15,13 +15,6 @@ Building coding agents, multi-agent systems, AI products.
   <img src="https://img.shields.io/badge/CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white" alt="CLI" />
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
 </p>
-
-## What I'm Building
-
-- **[open-agent-sdk](https://github.com/Octane0411/open-agent-sdk)** - Lightweight, customizable, cross-provider AI agent framework. Open-source alternative to Claude Agent SDK.
-- **[symphony-ts](https://github.com/OasAIStudio/symphony-ts)** - TypeScript version of OpenAI Symphony. It turns project work into isolated, autonomous implementation runs.
-- **[opencode-plugin-openspec](https://github.com/Octane0411/opencode-plugin-openspec)** - An OpenSpec-focused agent plugin for OpenCode, providing better OpenSpec planning support.
-
 
 
 ## Connect
