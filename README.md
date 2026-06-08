@@ -2,7 +2,7 @@
 
 AI native Builder, agent engineer @bytedance
 
-Building coding agents, multi-agent systems, AI products.
+Building coding agents, AI products.
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
