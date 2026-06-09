@@ -1,6 +1,6 @@
 # Octane
 
-AI native Builder, agent engineer @bytedance
+AI-native builder and agent engineer [@bytedance](https://github.com/bytedance), ex-[@meituan](https://github.com/meituan).
 
 Building coding agents, AI products.
 
