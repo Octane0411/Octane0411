@@ -1,8 +1,6 @@
 # Octane
 
-AI-native builder and agent engineer [@bytedance](https://github.com/bytedance), ex-[@meituan](https://github.com/meituan).
-
-Building coding agents, AI products.
+Building coding agents, AI things.
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
