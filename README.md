@@ -14,6 +14,14 @@ Building coding agents, AI things.
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
 </p>
 
+## GitHub Score
+
+<a href="https://ghfind.com/u/octane0411?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/octane0411?theme=dark&amp;lang=en" />
+    <img src="https://ghfind.com/api/card/mini/octane0411?theme=light&amp;lang=en" alt="GitHub Roast score card" width="440" />
+  </picture>
+</a>
 
 ## Connect
 
